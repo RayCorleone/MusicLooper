@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Thu Jan 07 17:19:29 2021
+# Process ID: 17976
+# Current directory: D:/Ray/Vivado/Music_Looper/Music_Looper.runs/impl_1
+# Command line: vivado.exe -log Looper_Top.vdi -applog -messageDb vivado.pb -mode batch -source Looper_Top.tcl -notrace
+# Log file: D:/Ray/Vivado/Music_Looper/Music_Looper.runs/impl_1/Looper_Top.vdi
+# Journal file: D:/Ray/Vivado/Music_Looper/Music_Looper.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Looper_Top.tcl -notrace
